@@ -1,2 +1,3 @@
 # reading-notes
-Code Fellows 102 reading notes
+Here's my read me.
+This will be updated as I work on this lab project.
