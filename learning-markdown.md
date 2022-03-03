@@ -6,7 +6,7 @@ This isn't just for github, by the way. Many applications undesrtand Markdown an
 
 - **Make text bold**
 - *Italicize text*
-- ##### Increase the text size
+- ### Increase the text size
 
 It's all done by adding special characters while you type. It's a lot to remember at first, but eventually, it'll become second nature. While you're learning, here's a good reference guide.
 
