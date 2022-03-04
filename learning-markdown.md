@@ -11,7 +11,7 @@ This isn't just for github, by the way. Many applications undesrtand Markdown an
 - **Make text bold**
 - *Italicize text*
  
-- ### Increase the text size
+- ### Create a header
  
 
 It's all done by adding special characters while you type. This is what it looks like before your browser works its magic.
@@ -20,7 +20,7 @@ It's all done by adding special characters while you type. This is what it looks
 > 
 > `- *Italicize text*`
 > 
-> `- ### Increase the text size`
+> `- ### Create a header`
 
 It's a lot to remember at first, but eventually, it'll become second nature. While you're learning, here's a good reference guide.
 
