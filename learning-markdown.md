@@ -10,7 +10,7 @@ This isn't just for github, by the way. Many applications undesrtand Markdown an
 - ### Create a header
  
 
-It's all done by adding special characters while you type. This is what it looks like before your browser works its magic.
+You can do this by adding special characters while you type. This is what the text above looks like before your browser works its magic.
 
 > `- **Make text bold**`
 > 
