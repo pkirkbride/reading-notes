@@ -1,3 +1,7 @@
+layout: page
+title: "Learning markdown"
+permalink: /reading-notes/learning-markdown/
+
 ## Learning markdown
 
 I'm learning how to use Markdown on my github pages and have a few key concepts to share with my readers. Markdown is a quick way to format pages with syntax that's relatively easy to remember and quick to type.
