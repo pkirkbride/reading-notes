@@ -1,6 +1,6 @@
 ## Learning markdown
 
-Markdown is a quick yet robust way to format text with syntax that's relatively easy to remember and quick to type. Nearly all applications that support Markdown can handle the basic formatting options that will cover most users' needs. Here are some basic examples of what you can do with Markdown.
+Markdown is a quick yet robust way to format text with syntax that's relatively easy to remember and quick to type. Nearly all applications that support Markdown can handle the basic formatting options that will cover most users' needs. Here are some examples of what you can do with Markdown.
 
 - **Make text bold**
 - *Italicize text*
