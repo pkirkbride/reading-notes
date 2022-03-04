@@ -21,3 +21,5 @@ This works by adding special characters to your text. This is what the text abov
 It's a lot to remember at first, but eventually, it'll become second nature. While you're learning, here's a good reference guide.
 
 [Markdown Guide](https://www.markdownguide.org/basic-syntax/ "Overview of common Markdown syntax")
+
+I published this page using [GitHub pages](https://pages.github.com). It's a really intuitive way to share directly from your GitHub account.
