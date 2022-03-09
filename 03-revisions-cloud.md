@@ -1,6 +1,6 @@
 # Revisions and the Cloud - Read 03
 
-Git is a version control system that allows multiple people to work on the same project at the same time. It’s a distributed version control system. This means that  the repositories are mirrored on all users’ computers, so if one is lost or corrupted, another one can be used in its place.
+Git is a version control system that allows multiple people to work on the same project at the same time. It’s a distributed version control system, which means that the repositories are mirrored on all users’ computers, so if one is deleted or corrupted, another one can be used in its place.
 
 Files in Git can be in three states: *committed*, *modified*, and *staged*.
 
