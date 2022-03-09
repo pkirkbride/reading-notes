@@ -9,7 +9,8 @@ Markdown is a quick yet robust way to format text with syntax that's relatively 
 
 This works by adding special characters to your text. This is what the text above looks like before Markdown works its magic.
 
-```- **Make text bold**
+```md
+- **Make text bold**
  
 - *Italicize text*
  
