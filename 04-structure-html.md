@@ -12,10 +12,12 @@ Draft and sketch. Don’t get too lost in the details (e.g. colors, aesthetics).
 
 ## HTML Basics
 
-The function of HTML is to structure web pages and their content. While it will influence how they look, those details will actually be handled by cascading style sheets \(CSS)\. Most HTML consists of opening and closign tags like the example below.
+The function of HTML is to structure web pages and their content. While it will influence how they look, those details will actually be handled by cascading style sheets \(CSS)\. Most HTML consists of opening and closing tags like the example below.
 
 ```(html)
 <p>Here's the text that will appear on the web page.</p>
 ```
 
 To see more examples and get a better understanding of how to compose HTML, I suggest taking a look at [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics).
+
+Semantics can play an important role in writing code for HTML pages. In this context, semantics refers the meaning of the tags used in the code. For example, you could specifiy all of the details \(e.g. typeface, font, line breaks)\ about how an address should look displayed on the page every time an address is displayed. Alternatively, if you use the `<address>` tag, not only can the style be defined once on the CSS, it will influence search engine rankings based on the tags on the page.
