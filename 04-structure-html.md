@@ -9,3 +9,13 @@ It may be a good idea to work with hand-drawn wire frames initially because they
 Another key step is to map out user flow so that you know where the users are coming from and where they are going on the site. This step will help define how many different pages you need, what content they should have, and how they are related.
 
 Draft and sketch. Don’t get too lost in the details (e.g. colors, aesthetics). Only after  the draft is complete should you add some detail.
+
+## HTML Basics
+
+The function of HTML is to structure web pages and their content. While it will influence how they look, those details will actually be handled by cascading style sheets \(CSS)\. Most HTML consists of opening and closign tags like the example below.
+
+```(html)
+<p>Here's the text that will appear on the web page.</p>
+```
+
+To see more examples and get a better understanding of how to compose HTML, I suggest taking a look at [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics).
