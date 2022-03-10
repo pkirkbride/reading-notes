@@ -8,7 +8,7 @@ It is a good idea to work with hand-drawn wire frames initially because they are
 
 Another key step is to map out user flow so that you know where the users are coming from and where they are going on the site. This step will help define how many different pages you need, what content they should have, and how they are related.
 
-Now it's time to complete a draft. Don’t get too lost in the details (e.g. colors, aesthetics) at this point. Only after the draft is complete should you make decisions on formatting. This method will help keep you from getting bogged down in the process.
+Now it's time to complete a draft. Don’t get too lost in the details (e.g. aesthetics) at this point. Only after the draft is complete should you make decisions on formatting. This method will help keep you from getting bogged down in the process.
 
 ## HTML Basics
 
@@ -20,6 +20,6 @@ Most HTML consists of opening and closing tags like the example below.
 <p>Here's the text that will appear on the web page.</p>
 ```
 
-To see more examples and get a better understanding of how to compose HTML, I suggest taking a look at [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics).
+To see more examples and get a better understanding of how to compose HTML, take a look at [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics).
 
-Semantics plays an important role in writing code for HTML pages. In this context, semantics refers the meaning of the tags used in the code. For example, you could specifiy all of the details \(e.g. typeface, font, line breaks)\ about how an address should look displayed on the page every time an address is displayed. Alternatively, if you use the `<address>` tag, not only can the style be defined once on the CSS, it will influence search engine rankings based on the tags on the page.
+Semantics also plays an important role in writing code for HTML pages. In this context, semantics refers the meaning of the tags used in the code. For example, you could specifiy all of the details \(e.g. typeface, font, line breaks)\ about how an address should look displayed on the page every time an address is displayed. Alternatively, if you use the `<address>` tag, not only can the style be defined once on the CSS, it will influence search engine rankings based on the tags on the page.
