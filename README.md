@@ -9,3 +9,4 @@ My name is Patrick Kirkbride. I'm a newly enrolled Code Fellows student learning
 3. [The coder's computer](https://pkirkbride.github.io/reading-notes/02-coders-computer)
 4. [Revisions and the cloud](https://pkirkbride.github.io/reading-notes/03-revisions-cloud)
 5. [Structure web pages with HTML](https://pkirkbride.github.io/reading-notes/04-structure-html)
+6. [Design web pages wiht CSS](https://pkirkbride.github.io/reading-notes/05-css.md)
