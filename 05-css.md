@@ -26,6 +26,8 @@ ___ Inline style (inside an HTML element)
 
 ___ External and internal style sheets (in the head section)
 
+*******
+
 ### Answers
 
 1. Style
