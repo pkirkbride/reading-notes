@@ -2,6 +2,8 @@
 
 ## Key concepts worksheet
 
+### Fill in the blanks. (Answers can be found below)
+
 1. The abbreviation CSS stands for Cascading _____ Sheets.
 
 1. User Agent Styles are the default styles on the user’s _________.
