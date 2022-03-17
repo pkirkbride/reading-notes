@@ -8,7 +8,7 @@
 
 1. User Agent Styles are the default styles on the user’s _________.
 
-1. In CSS, a selector is the ______ that the defined style will be applied to.
+1. In CSS, a selector is the ________ that the defined style will be applied to.
 
 1. A ________ is a characteristic that is specified for the selector.
 
@@ -16,7 +16,7 @@
 
 1. The browser _______ table shows which browsers support a particular CSS specification.
 
-1. An _____ style sheet is stored in a separate file from the HTML document.
+1. A(n) _____ style sheet is stored in a separate file from the HTML document.
 
 1. Number the order in which a browser will use a style when multiple styles are specified for an HTML element with one being the highest priority.
 
