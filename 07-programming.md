@@ -18,7 +18,7 @@ A _return_ statement stops executing a function.
 
 ## Variables and functions
 
-Functions can be used as variables. So if you have a function called myFunction(), you could use it like this.
+Functions can be used as variables. So if you have a function called `myFunction()`, you could use it like this.
 
 `let x = myFunction()`
 
@@ -28,7 +28,7 @@ It’s also possible to set a variable that works only in the function, which is
 
 JavaScript operators will look familiar to people with basic knowledge of math. But the exact way the work within JavaScript is slightly different. Here are some common operators.
 
-| Type | Symbol |
+| __Type__ | __Symbol__ |
 | Assignment | = |
 | Addition | + |
 | Multiplication | - |
