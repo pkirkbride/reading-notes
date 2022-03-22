@@ -19,9 +19,10 @@ A _return_ statement stops executing a function.
 ## Variables and functions
 
 Functions can be used as variables. So if you have a function called myFunction(), you could use it like this.
-let x = myFunction()
 
-It’s also possible to set a variable that only works in the function, which is called a local variable. It won’t work anywhere in the script outside the function.
+`let x = myFunction()`
+
+It’s also possible to set a variable that works only in the function, which is called a local variable. It won’t work anywhere in the script outside the function.
 
 ## JavaScript operators
 
