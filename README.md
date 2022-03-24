@@ -12,3 +12,4 @@ My name is Patrick Kirkbride. I'm a newly enrolled Code Fellows student learning
 6. [Design web pages with CSS](https://pkirkbride.github.io/reading-notes/05-css)
 7. [Dynamic web pages with JavaScript](https://pkirkbride.github.io/reading-notes/06-JavaScript)
 8. [Programming with JavaScript](https://pkirkbride.github.io/reading-notes/07-programming)
+9. [Operators and Loops](https://pkirkbride.github.io/reading-notes/08-operators-loops)
